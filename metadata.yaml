@@ -1,0 +1,40 @@
+_repo: The-Vilbar-Party_31626
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kossin, Sandy
+    aliases:
+    - Kossin
+    - Kossin, Sanford
+    gutenberg_agent_id: '34255'
+    url: http://www.gutenberg.org/2009/agents/34255
+covers:
+- cover_type: archival
+  image_path: 31626-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Smith, Evelyn E.
+    birthdate: 1922
+    deathdate: 2000
+    gutenberg_agent_id: '25680'
+    url: http://www.gutenberg.org/2009/agents/25680
+description: ''
+gutenberg_bookshelf:
+- Science Fiction
+- Science Fiction by Women
+gutenberg_issued: '2010-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31626'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'College teachers -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+title: The Vilbar Party
+url: http://www.gutenberg.org/ebooks/31626
